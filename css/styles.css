@@ -5813,30 +5813,30 @@ aside,
   border-color: #76c08a;
 }
 .features-icon {
-  -webkit-box-shadow: 0 0 0 2px #fff inset, 0 0 0 5px #76c08a;
-  -moz-box-shadow: 0 0 0 2px #fff inset, 0 0 0 5px #76c08a;
-  box-shadow: 0 0 0 2px #fff inset, 0 0 0 5px #76c08a;
+  -webkit-box-shadow: 0 0 0 2px #fff inset, 0 0 0 5px #cfb085;
+  -moz-box-shadow: 0 0 0 2px #fff inset, 0 0 0 5px #cfb085;
+  box-shadow: 0 0 0 2px #fff inset, 0 0 0 5px #cfb085;
 }
 .features-center:hover .features-icon {
-  -webkit-box-shadow: 0 0 0 55px #fff inset, 0 0 0 5px #76c08a;
-  -moz-box-shadow: 0 0 0 55px #fff inset, 0 0 0 5px #76c08a;
-  box-shadow: 0 0 0 55px #fff inset, 0 0 0 5px #76c08a;
+  -webkit-box-shadow: 0 0 0 55px #fff inset, 0 0 0 5px #cfb085;
+  -moz-box-shadow: 0 0 0 55px #fff inset, 0 0 0 5px #cfb085;
+  box-shadow: 0 0 0 55px #fff inset, 0 0 0 5px #cfb085;
 }
 .features-icon.alt-1 {
-  -webkit-box-shadow: 0 0 0 2px #76c08a inset, 0 0 0 5px #ffffff;
-  -moz-box-shadow: 0 0 0 2px #76c08a inset, 0 0 0 5px #ffffff;
-  box-shadow: 0 0 0 2px #76c08a inset, 0 0 0 5px #ffffff;
+  -webkit-box-shadow: 0 0 0 2px #cfb085 inset, 0 0 0 5px #ffffff;
+  -moz-box-shadow: 0 0 0 2px #cfb085 inset, 0 0 0 5px #ffffff;
+  box-shadow: 0 0 0 2px #cfb085 inset, 0 0 0 5px #ffffff;
 }
 .features-center:hover .features-icon.alt-1 {
-  -webkit-box-shadow: 0 0 0 55px #76c08a inset, 0 0 0 5px #ffffff;
-  -moz-box-shadow: 0 0 0 55px #76c08a inset, 0 0 0 5px #ffffff;
-  box-shadow: 0 0 0 55px #76c08a inset, 0 0 0 5px #ffffff;
+  -webkit-box-shadow: 0 0 0 55px #cfb085 inset, 0 0 0 5px #ffffff;
+  -moz-box-shadow: 0 0 0 55px #cfb085 inset, 0 0 0 5px #ffffff;
+  box-shadow: 0 0 0 55px #cfb085 inset, 0 0 0 5px #ffffff;
 }
 
 .active.pricing-table .pricing-media:before {
-  -webkit-box-shadow: 0 0 0 10px #76c08a inset;
-  -moz-box-shadow: 0 0 0 10px #76c08a inset;
-  box-shadow: 0 0 0 10px #76c08a inset;
+  -webkit-box-shadow: 0 0 0 10px #cfb085 inset;
+  -moz-box-shadow: 0 0 0 10px #cfb085 inset;
+  box-shadow: 0 0 0 10px #cfb085 inset;
 }
 #list-grid > div.active,
 .accordion > dt > a > i,
@@ -5844,28 +5844,28 @@ aside,
 .comment .reply:hover,
 .ui-datepicker-prev,
 .ui-datepicker-next {
-  -webkit-box-shadow: 0 0 0 1px #76c08a inset;
-  -moz-box-shadow: 0 0 0 1px #76c08a inset;
-  box-shadow: 0 0 0 1px #76c08a inset;
+  -webkit-box-shadow: 0 0 0 1px #cfb085 inset;
+  -moz-box-shadow: 0 0 0 1px #cfb085 inset;
+  box-shadow: 0 0 0 1px #cfb085 inset;
 }
 .comment .reply,
 .ui-datepicker-prev:hover,
 .ui-datepicker-next:hover {
-  -webkit-box-shadow: 0 0 0 14px #76c08a inset;
-  -moz-box-shadow: 0 0 0 14px #76c08a inset;
-  box-shadow: 0 0 0 14px #76c08a inset;
+  -webkit-box-shadow: 0 0 0 14px #cfb085 inset;
+  -moz-box-shadow: 0 0 0 14px #cfb085 inset;
+  box-shadow: 0 0 0 14px #cfb085 inset;
 }
 .input-text::-webkit-input-placeholder {
-  color: #76c08a;
+  color: #cfb085;
 }
 .input-text::-moz-placeholder {
-  color: #76c08a;
+  color: #cfb085;
 }
 .input-text:-moz-placeholder {
-  color: #76c08a;
+  color: #cfb085;
 }
 .input-text:-ms-input-placeholder {
-  color: #76c08a;
+  color: #cfb085;
 }
 
 /*##############################################################
