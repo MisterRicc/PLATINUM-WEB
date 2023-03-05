@@ -2148,7 +2148,7 @@ header .inner-nav .logo > a > img {
   -o-transition: all 0.3s ease-out;
   -ms-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
-  background-color: rgba(118, 192, 138, 0.7);
+  background-color: #cfb085;
 }
 .shop-container.alt-2 .shop-media.small:before {
   margin: 5px;
