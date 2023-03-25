@@ -250,6 +250,11 @@ ins.ins-2 {
   opacity: 1;
 }
 
+.learn-more button {
+  background-color: #cfb085;
+  border-color: #cfb085;
+}
+
 .section-divider {
   margin: 0 auto;
   width: 100%;
