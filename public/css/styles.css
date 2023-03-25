@@ -246,7 +246,7 @@ ins.ins-2 {
 
 .learn-more p.expanded {
   display: block;
-  max-height: 200px; /* Adjust this value based on the actual height of the content */
+  max-height: 600px; /* Adjust this value based on the actual height of the content */
   opacity: 1;
 }
 

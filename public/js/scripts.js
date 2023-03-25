@@ -364,12 +364,6 @@ function masonry_init() {
   });
 }
 
-// Learn more section
-document.getElementById('learnMoreBtn').addEventListener('click', function () {
-  const learnMoreContent = document.getElementById('learnMoreContent');
-  learnMoreContent.classList.toggle('expanded');
-});
-
 // Progress bar
 function progress_bar_loader() {
   $('.skill-bar-progress').each(function () {
@@ -1011,3 +1005,9 @@ function contact_form_init() {
     };
   }
 }
+
+// Learn more section
+document.getElementById('learnMoreBtn').addEventListener('click', function () {
+  const learnMoreContent = document.getElementById('learnMoreContent');
+  learnMoreContent.classList.toggle('expanded');
+});
